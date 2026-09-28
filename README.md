@@ -6,4 +6,4 @@ At the moment, I'm working on my network devices provisioning tool called Multif
 
 I have competence with programming in Python, HCL (Terraform and Packer), MongoDB, Docker/Podman-Compose and Git.
 
-To get in touch with me, send me a message on LinkedIn or send an e-mail to
+To get in touch with me, send me a message on LinkedIn or send an e-mail to c@rosafogo.com.
