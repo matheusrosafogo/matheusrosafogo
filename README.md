@@ -1,9 +1,9 @@
 ### Who am I
 
-I'm a Networking student that has experience with IaC, Automation, Containers, VM's, Software Engineering and Non-Relational Databases.
+I'm a Networking student who has experience with IaC, Automation, Containers, VMs, Software Engineering and Non-Relational Databases.
 
-At the moment, I'm working on my network devices provisioning tool called Multiflora for my university and searching for an internship.
+At the moment, I'm working on my network device provisioning tool called Multiflora for my university and searching for an internship.
 
-I have competence with programming in Python, HCL (Terraform and Packer), MongoDB, Docker/Podman-Compose and Git.
+Im skilled in Python, HCL (Terraform and Packer), MongoDB, Docker/Podman-Compose and Git.
 
-To get in touch with me, send me a message on LinkedIn or send an e-mail to c@rosafogo.com.
+To get in touch with me, send me a message on LinkedIn or send an email to c@rosafogo.com.
